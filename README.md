@@ -1,5 +1,5 @@
 # CabbageGB
-Unfinished source code for the not released Cabbage Gameboy, part of the Shoshinkai Archive Show ARG.
+Unfinished source code for the not shown Cabbage Gameboy, part of the Shoshinkai Archive Show ARG.
 
 # Had to do something with the Source Code :P
 So yeah, this is my last copy of the Cabbage Gameboy game source, Made on the **Game Maker Studio 1.4.1804** engine, 
